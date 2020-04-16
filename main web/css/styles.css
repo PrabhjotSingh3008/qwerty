@@ -1,0 +1,17 @@
+#navigation_bars{
+  background-color: white;
+}
+
+.intro-section{
+  margin-top: 2em;
+}
+
+.featurehead{
+  margin: 1.5rem;
+}
+
+.cen{
+  align-content: center;
+  align-items: center;
+  align: center;
+}
